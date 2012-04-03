@@ -2,7 +2,6 @@ edding 850
 =============
 
 by [büro destruct](http://www.burodestruct.net/bureaudestruct/home/index.html)
-
 presented by «[eddings](http://edding.com)»'s [type for type](http://type-for-type.com)
 
 
