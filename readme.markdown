@@ -4,4 +4,4 @@ edding 850
 =============
 _by  [büro destruct](http://www.burodestruct.net/bureaudestruct/home/index.html)_
 
-presented by «edding» / image credit [Simon Becker](http://WWW.B2302.DE_)
+presented by «[eddings](http://edding.com)»'s' [type for type](http://type-for-type.com) / image credit [Simon Becker](http://www.b2302.de)_
