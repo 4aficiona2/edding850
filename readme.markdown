@@ -8,4 +8,4 @@ is a fontface designed as homage to the edding850 marker. Use it now for screen'
 
 
 ![edding850](https://github.com/zoo2rock/edding850/raw/master/images/edding850-bd-elk.gif)  
-(image credits [büro destruct](http://www.burodestruct.net/bureaudestruct/home/index.html))
+(image credits [büro destruct](http://www.burodestruct.net/bureaudestruct/home/index.html))/[type for type](http://type-for-type.com/projekt-galerie/850/lopetz/2494/))
