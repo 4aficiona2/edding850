@@ -1,7 +1,7 @@
 edding 850
 =============
 
-is a fontface designed as homage to the edding850 marker. Use it now for screen's and tag the web.
+is a fontface designed as homage to the edding850 marker. Use it now as webfont and tag the web.
 
 *by* [büro destruct](http://www.burodestruct.net/bureaudestruct/home/index.html)  
 *presented by* «[edding](http://edding.com)»'s [type for type](http://type-for-type.com)
