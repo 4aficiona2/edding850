@@ -7,7 +7,7 @@
   <head>
   <meta charset="utf-8">
 
-  <title dir="ltr">edding850 - tag the web</title>
+  <title dir="ltr">edding850 - go and tag the web</title>
     <style type="text/css">
       
       @font-face { 
@@ -16,35 +16,47 @@
         local("webfonts/edding850"), url('webfonts/edding850.woff') format("woff"), url('webfonts/edding850.ttf') format("truetype"), url('webfonts/edding850.svg#edding850') format("svg");
       }
 
-      h1, h2, h2 a, p {
+      h1, h2, h2 a, blockquote {
          font-family: "edding850", Arial, sans-serif; 
          font-weight: normal;
-         font-size: 120px;
          margin: 0;
 
          -webkit-margin-after: 0.1em;
       }
-        h2, a{
-          font-size: 74px;
+        h1 {
+          font-size: 120px;
+        }
+        h2, a, blockquote{
+          font-size: 64px;
 
           -webkit-margin-before: 0em;
         }
-          a {
-            color: #f30019;
-            text-decoration: none;
+          h2 {
+            text-transform: uppercase;
           }
+      a {
+        color: #f30019;
+        text-decoration: none;
+      }
+      blockquote{
+        padding: 80px 40px 40px 40px;
+      }
+      blockquote:before {
+        content: '≤';
+        font-size: 120px;
+      }
     </style>
   </head>
   <body>
     <section class="fonts">
       <article>
         <hgroup>
-          <h1>edding 850</h1>
-          <h2>by <a href="http://burodestruct.com" title="büro destruct">buro destruct</a></h2>
+          <h1>edding™ 850</h1>
+          <h2>by <a href="http://burodestruct.com" title="büro destruct">büro destruct</a></h2>
         </hgroup>
-        <p>
-          Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui.
-        </p>
+        <blockquote cite="http://www.buro-destruct.com/news/2012/03/28/custom-bd-font-for-new-edding-campaign-type-for-type/">
+          An edding can write on anything. Thanks to the new Büro Destruct font edding 850 it even keeps that promise on your computer. End of story? Quite the opposite ... so go and tag the web!
+        </blockquote>
       </article>
     </section>
   </body>
