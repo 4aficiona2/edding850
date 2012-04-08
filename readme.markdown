@@ -1,4 +1,4 @@
-<link rel="stylesheet" media="screen" href="" >
+<link rel="stylesheet" media="screen" href="https://raw.github.com/zoo2rock/edding850/master/readme.css" >
 
 edding850 is a fontface designed as homage to the edding850 marker. Use it now as webfont and tag the web.
 
