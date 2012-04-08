@@ -5,47 +5,21 @@
 <!--[if IE 8]>    <html lang="en-us" class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html lang="en-us" class="no-js"> <!--<![endif]-->
   <head>
-  <meta charset="utf-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title dir="ltr">edding850 - go and tag the web</title>
+    <meta name="viewport" content="width=device-width">
 
-  <title dir="ltr">edding850 - go and tag the web</title>
-    <style type="text/css">
-      
-      @font-face { 
-        font-family: "edding850"; 
-        src: url('webfonts/edding850.eot') format('embedded-opentype'),
-        local("webfonts/edding850"), url('webfonts/edding850.woff') format("woff"), url('webfonts/edding850.ttf') format("truetype"), url('webfonts/edding850.svg#edding850') format("svg");
-      }
-
-      h1, h2, h2 a, blockquote {
-         font-family: "edding850", Arial, sans-serif; 
-         font-weight: normal;
-         margin: 0;
-
-         -webkit-margin-after: 0.1em;
-      }
-        h1 {
-          font-size: 105px;
-        }
-        h2, a, blockquote{
-          font-size: 64px;
-          line-height: 64px;
-          -webkit-margin-before: 0em;
-        }
-          h2 {
-            text-transform: uppercase;
-          }
-      a {
-        color: #f30019;
-        text-decoration: none;
-      }
-      blockquote{
-        padding: 80px 40px 40px 40px;
-      }
-      blockquote:before {
-        content: '≤';
-        font-size: 120px;
-      }
-    </style>
+    <!-- styles to normalize  -->
+    <link rel="stylesheet" media="screen" href="css/normalize.css" >
+    <!-- styles for fontfaces  -->
+    <link rel="stylesheet" media="screen" href="css/edding850-fontface.css" >
+    <!-- styles for layout  -->
+    <link rel="stylesheet" media="screen" href="css/style.css" >
+    <!-- end styles -->
+    <!-- custom script for modernizr  -->
+    <script src="js/libs/modernizr-2.5.3-custom.min.js"></script>
+    <!-- end scripts -->
   </head>
   <body>
     <section class="fonts">
@@ -55,9 +29,19 @@
           <h2>by <a href="http://burodestruct.com" title="büro destruct">büro destruct</a></h2>
         </hgroup>
         <blockquote cite="http://www.buro-destruct.com/news/2012/03/28/custom-bd-font-for-new-edding-campaign-type-for-type/">
-          An edding can write on anything. Thanks to the new Büro Destruct font edding 850 it even keeps that promise on your computer. End of story? Quite the opposite ... so go and tag the web!
+          An edding can write on anything. Thanks to the new Büro Destruct font edding 850 it even keeps that promise on your computer. End of story? Quite the opposite
         </blockquote>
+        <blockquote> so go and tag the web !</blockquote>
       </article>
     </section>
+  
+    <!-- scripts  -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.1.min.js"><\/script>')</script>
+
+    <!-- scripts concatenated and minified -->
+    <script src="js/plugins.js"></script>
+    <script src="js/script.js"></script>
+    <!-- end scripts -->
   </body>
 </html>
