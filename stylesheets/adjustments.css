@@ -3,15 +3,21 @@
 ::-moz-selection { background: #006400; color: #fff; text-shadow: none; }
 ::selection { background: #006400; color: #fff; text-shadow: none; }
 
-hgroup{ padding: 5px 20px; }
+
+#forkme_banner {
+	background: url('../images/blacktocat.png') #f30019 no-repeat 95% 50%;
+}
+
 h1, h2, h2 a, blockquote {
    font-family: "edding850", Arial, sans-serif; 
    font-weight: normal;
    margin: 0;
    line-height: 1;
+   background: none;
+   border: none;
 }
-  h1 { font-size: 105px; }
-  h2, a, blockquote{
+  h1 { font-size: 94px; }
+  h2, hgroup a, blockquote{
     font-size: 50px;
     line-height: 50px;
   }
@@ -20,21 +26,11 @@ a, a:visited, a:hover {
   color: #f30019;
   text-decoration: none;
 }
-blockquote{ padding: 60px 40px 40px 60px; }
+blockquote{ 
+	padding-top: 60px;
+	padding-left: 60px;
+}
   blockquote:before {
     content: '≤';
     font-size: 120px;
   }
-
-/** soon obsolete */
-#main_content img {
-		width: 31%;
-	}
-	#main_content img:nth-of-type(even) {
-		-moz-transform: scaleX(-1);
-		-o-transform: scaleX(-1);
-		-webkit-transform: scaleX(-1);
-		transform: scaleX(-1);
-		filter: FlipH;
-		-ms-filter: "FlipH";
-	}
