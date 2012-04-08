@@ -1,0 +1,26 @@
+
+::-moz-selection { background: #006400; color: #fff; text-shadow: none; }
+::selection { background: #006400; color: #fff; text-shadow: none; }
+
+hgroup{ padding: 5px 20px; }
+h1, h2, h2 a, blockquote {
+   font-family: "edding850", Arial, sans-serif; 
+   font-weight: normal;
+   margin: 0;
+   line-height: 1;
+}
+  h1 { font-size: 105px; }
+  h2, a, blockquote{
+    font-size: 50px;
+    line-height: 50px;
+  }
+    h2 { text-transform: uppercase; }
+a, a:visited, a:hover {
+  color: #f30019;
+  text-decoration: none;
+}
+blockquote{ padding: 60px 40px 40px 60px; }
+  blockquote:before {
+    content: '≤';
+    font-size: 120px;
+  }
