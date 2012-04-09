@@ -15,6 +15,7 @@ h1, h2, h2 a, blockquote {
    line-height: 1;
    background: none;
    border: none;
+   color: #000;
 }
   h1 { font-size: 94px; }
   h2, hgroup a, blockquote{
@@ -25,6 +26,14 @@ h1, h2, h2 a, blockquote {
 a, a:visited, a:hover {
   color: #f30019;
   text-decoration: none;
+
+  width: 300px;
+  margin: 0 50px;
+  background-color: #fff;
+  border: 2px solid black;
+  filter:alpha(opacity=50); 
+  opacity: 0.5;
+-moz-opacity:0.5;
 }
 blockquote{ 
 	padding-top: 60px;
