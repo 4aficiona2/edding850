@@ -1,12 +1,11 @@
 
 
-::-moz-selection { background: #006400; color: #fff; text-shadow: none; }
-::selection { background: #006400; color: #fff; text-shadow: none; }
+::-moz-selection { background: #007EDF; color: #fff; text-shadow: none; }
+::selection { background: #007EDF; color: #fff; text-shadow: none; }
 
-
-#forkme_banner {
+/** #forkme_banner {
 	background: url('../images/blacktocat.png') #f30019 no-repeat 95% 50%;
-}
+} */
 
 h1, h2, h2 a, blockquote {
    font-family: "edding850", Arial, sans-serif; 
@@ -15,27 +14,26 @@ h1, h2, h2 a, blockquote {
    line-height: 1;
    background: none;
    border: none;
-   color: #000;
+   letter-spacing: 0;
 }
-  h1 { font-size: 94px; }
+  h1 { 
+  	font-size: 93px;
+  	color: #000;
+  }
   h2, hgroup a, blockquote{
     font-size: 50px;
     line-height: 50px;
+    color: #333;
   }
-    h2 { text-transform: uppercase; }
-a, a:visited, a:hover {
+    hgroup a { 
+    	text-transform: uppercase; 
+    }
+a {
   color: #f30019;
   text-decoration: none;
-
-  width: 300px;
-  margin: 0 50px;
-  background-color: #fff;
-  border: 2px solid black;
-  filter:alpha(opacity=50); 
-  opacity: 0.5;
--moz-opacity:0.5;
 }
 blockquote{ 
+	color: #000;
 	padding-top: 60px;
 	padding-left: 60px;
 }
