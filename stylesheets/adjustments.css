@@ -3,9 +3,7 @@
 ::-moz-selection { background: #007EDF; color: #fff; text-shadow: none; }
 ::selection { background: #007EDF; color: #fff; text-shadow: none; }
 
-/** #forkme_banner {
-	background: url('../images/blacktocat.png') #f30019 no-repeat 95% 50%;
-} */
+hgroup { margin-top: 30px; }
 
 h1, h2, h2 a, blockquote {
    font-family: "edding850", Arial, sans-serif; 
