@@ -46,5 +46,7 @@ blockquote{
 	padding-bottom: 40px;
 }
 p.copyright {
-	margin-top: 30px;
+  margin-top: 50px;
+  padding-top: 20px;
+  border-top: 1px dashed;
 }
