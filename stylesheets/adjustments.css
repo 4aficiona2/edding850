@@ -23,8 +23,8 @@ h1, h2, h2 a, blockquote {
   	color: #000;
   }
   h2, hgroup a, blockquote{
-    font-size: 50px;
-    line-height: 50px;
+    font-size: 75px;
+    line-height: 70px;
     color: #333;
   }
     hgroup a { 
@@ -33,9 +33,7 @@ h1, h2, h2 a, blockquote {
     	hgroup a:hover{
     		color: #007EDF;
     	}
-a {
-  text-decoration: none;
-}
+
 blockquote{ 
 	color: #000;
 	padding-top: 60px;
