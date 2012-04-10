@@ -26,7 +26,8 @@ h1, h2, h2 a, blockquote {
     color: #333;
   }
     hgroup a { 
-    	text-transform: uppercase; 
+    	text-transform: uppercase;
+    	color: #007EDF;
     }
 a {
   text-decoration: none;
