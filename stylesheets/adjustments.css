@@ -27,8 +27,10 @@ h1, h2, h2 a, blockquote {
   }
     hgroup a { 
     	text-transform: uppercase;
-    	color: #007EDF;
     }
+    	hgroup a:hover{
+    		color: #007EDF;
+    	}
 a {
   text-decoration: none;
 }
