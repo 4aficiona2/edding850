@@ -42,6 +42,6 @@ blockquote{
     font-size: 120px;
   }
 
-footer .inner {
+footer.inner,  p.copyright {
 	margin-top: 30px;
 }
