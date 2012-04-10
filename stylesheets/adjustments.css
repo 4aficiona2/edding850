@@ -42,6 +42,9 @@ blockquote{
     font-size: 120px;
   }
 
-footer.inner,  p.copyright {
+#main_content_wrap { 
+	padding-bottom: 40px;
+}
+p.copyright {
 	margin-top: 30px;
 }
