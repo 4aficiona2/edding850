@@ -11,6 +11,6 @@ is a fontface designed as homage to the edding850 marker. Use it now as webfont 
 ... coming soon
 
 ## Credits
-- font built *by * [büro destruct](http://www.burodestruct.net/bureaudestruct/home/index.html)  
+- font built *by* [büro destruct](http://www.burodestruct.net/bureaudestruct/home/index.html)  
 - font created for «[edding](http://edding.com)»'s [type for type](http://type-for-type.com)
 - [HTML5 Boilerplate V. 3.0](http://html5boilerplate.com) for basic setup
