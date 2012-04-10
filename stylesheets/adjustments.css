@@ -19,12 +19,12 @@ h1, h2, h2 a, blockquote {
    letter-spacing: 0;
 }
   h1 { 
-  	font-size: 93px;
+  	font-size: 85px;
   	color: #000;
   }
   h2, hgroup a, blockquote{
-    font-size: 75px;
-    line-height: 70px;
+    font-size: 50px;
+    line-height: 58px;
     color: #333;
   }
     hgroup a { 
