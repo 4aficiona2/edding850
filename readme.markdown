@@ -8,7 +8,7 @@ is a fontface designed as homage to the edding850 marker. Use it now as webfont 
 
 ## How to use
 
-check out the [Github Page](http://zoo2rock.github.com/edding850/)  
+check out the [Github Page](http://4aficiona2.github.com/edding850/)  
 
 
 ## Credits
